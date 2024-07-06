@@ -1,0 +1,1 @@
+This repository is just me exploring the data science domain with some simple classfication models which were also tasks for a company screening round. Do feel free to drop any suggestions on how I can do better! Looking forward to collaborate
